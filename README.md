@@ -15,7 +15,7 @@
 <tr>
 <td><a href="https://github.com/biancacosta" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@bianca"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:biancacosta@gmail.com" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -31,11 +31,11 @@
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.skoob.com.br/perfil/bianca" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/bianca/" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>bianca</code>, tenho 20 anos, moro em BH e comecei a cursar este ano Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou somente <code>estudante</code> na busca em adquirir conhecimento e aplicá-los na prática.
 </div>
 
 -----
@@ -73,14 +73,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/biancacosta/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/biancacosta/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
+- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/biancacosta/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/biancacosta/c/blob/main/bianca.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
+- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/bianca" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:biancacosta@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/bianca/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
@@ -201,13 +201,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/biancacosta/biancacosta/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/biancacosta/biancacosta/blob/main/img/spotify.gif?raw=true"/> bianca's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+<!-- <a href="https://twitter.com/joaobianca" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaobianca"/></a> -->
+<a href="https://www.last.fm/pt/user/joaobianca" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaobianca&width=400"/></a>
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
@@ -296,7 +296,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://www.hackerrank.com/biancacosta" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
 <br />
-<a href="https://stackoverflow.com/users/22206141/aramuni" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/22206141/bianca" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://gitlab.com/biancacosta" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/biancacosta" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
@@ -392,7 +392,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/biancacosta" target="_blank"><img src="https://github.com/biancacosta/biancacosta/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/biancacosta" target="_blank">© 2024 Aramuni</a><br />
+| Créditos: <a href="https://github.com/biancacosta" target="_blank">© 2024 bianca</a><br />
 | Última atualização: 13/03/2024
 </td>
 </tr>
