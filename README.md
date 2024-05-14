@@ -45,7 +45,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>bianca</code>, tenho 20 anos, moro em BH e comecei a cursar este ano Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou somente <code>estudante</code> na busca em adquirir conhecimento e aplicá-los na prática.
+<i><b>Olá</b> :wave:, sou a <code>bianca</code>, tenho 20 anos, moro em BH e comecei a cursar este ano Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou somente <code>estudante</code> na busca em adquirir conhecimento e aplicá-los na prática.
 </div>
 
 -----
